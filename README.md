@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm George Weale</h1>
-<h3 align="center">A passionate engineer from Palo Alto, I studied BME at Columbia and ChemE and Data Science at UCSB.</h3>
+<h3 align="center">A  engineer from Palo Alto, I studied BME at Columbia and ChemE and Data Science at UCSB. I chose to go to school to learn about my interests other than computer science as I will be coding for my entire life.</h3>
 
 - I’m currently working on [FluidNN_ComboTrans](https://github.com/GWeale/FluidNN_ComboTrans)
 
