@@ -1,11 +1,9 @@
 <h1 align="center">Hi , I'm George Weale</h1>
 <h3 align="center">A  engineer from Palo Alto, I studied BME at Columbia and ChemE and Data Science at UCSB. I chose to go to school to learn about my interests other than computer science as I will be coding for my entire life. I have made a couple matlab packages, look for the DLMPC library on matlab. :)</h3>
 
-- I’m currently working on [FluidNN_ComboTrans](https://github.com/GWeale/FluidNN_ComboTrans)
+- I’m currently working on publishing on LSTMS for time series
 
 - I’m currently learning **Long Short Term Memory, and GANS**
-
-- Ask me about **NeoVim :)**
 
 - How to reach me **gmw2143@columbia.edu**
 
