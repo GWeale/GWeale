@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm George Weale</h1>
-<h3 align="center">A  engineer from Palo Alto, I studied BME at Columbia and ChemE and Data Science at UCSB. I chose to go to school to learn about my interests other than computer science as I will be coding for my entire life. I have made a couple matlab packages, look for the DLMPC library on matlab. :)</h3>
+<h3 align="center">An incoming SWE at Google, went to UCSB and Columbia!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
