@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm George Weale</h1>
-<h3 align="center">An incoming SWE at Google, went to UCSB and Columbia!</h3>
+<h3 align="center">I went to UCSB and Columbia!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
