@@ -1,10 +1,17 @@
-<h1 align="center">Hi , I'm George Weale</h1>
-<h3 align="center">I went to UCSB and Columbia!</h3>
-<h3 align="center">georgeweale.com</h3>
+# George Weale
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/georgeweale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="georgeweale" height="30" width="40" /></a>
-</p>
+Software engineer working on agent quality and efficiency at Google Cloud AI.
 
+I work on making agent systems faster, more reliable, and less expensive. I'm especially interested in ML inference, GPU systems, compilers, and runtimes.
 
+## Some work
+
+- [Google Agent Development Kit](https://github.com/google/adk-python): agent framework efficiency and quality
+- [Strust](https://strust.us): behavioral verification for AI-written software migrations
+
+## Writing and research
+
+- [Why p99 Increases While Average CPU Utilization Stays Flat](https://georgeweale.com/blog/the-queue-you-accidentally-built)
+- [Research and projects](https://georgeweale.com/research)
+
+[Website](https://georgeweale.com) · [LinkedIn](https://www.linkedin.com/in/georgeweale/)
